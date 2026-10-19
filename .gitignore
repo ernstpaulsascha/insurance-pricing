@@ -8,3 +8,15 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Tool caches
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+
+# Data (download from OpenML, see README) and model artifacts
+/data/
+/artifacts/
+
+# OS
+.DS_Store
