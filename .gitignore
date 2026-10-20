@@ -18,5 +18,8 @@ wheels/
 /data/
 /artifacts/
 
+# Notebooks
+notebooks/
+
 # OS
 .DS_Store
